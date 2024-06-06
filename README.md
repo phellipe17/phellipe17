@@ -1,4 +1,4 @@
-### Hi there, My name is Phellipe 👋
+### Hi there, My name is Phellipe Sarmento 👋
 
 <!--
 **phellipe17/Phellipe17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
