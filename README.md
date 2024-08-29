@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Phellipe-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
 
-##
+<h1 class="heading-element" dir="auto">🌐 Socials:</h1>
 
 <div> 
   <a href="https://instagram.com/phellipe17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
